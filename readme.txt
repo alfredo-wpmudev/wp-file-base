@@ -1,10 +1,13 @@
 === WP-Filebase Download Manager ===
-Contributors: fabifott
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=wpfilebase%40fabi%2eme&item_name=WP-Filebase&no_shipping=0&no_note=1&tax=0&currency_code=USD&lc=US&bn=PP%2dDonationsBF&charset=UTF%2d8
-Tags: filebase, filemanager, file, files, manager, upload, download, downloads, downloadmanager, images, pdf, widget, filelist, list, thumbnails, thumbnail, attachment, attachments, category, categories, media, template, ftp, http, mp3, id3
-Requires at least: 3.1
-Tested up to: 4.5
+Tested WordPress: 6.5
 Stable tag: 3.4.4
+Compatible with PHP 8.1
+
+
+
+
+
+Contributors: fabifott
 
 Adds a powerful download manager including file categories, downloads counter, widgets, sorted file lists and more to your WordPress blog.
 
@@ -13,6 +16,7 @@ Adds a powerful download manager including file categories, downloads counter, w
 WP-Filebase is an advanced file download manager for WordPress.
 It keeps Files structured in Categories, offers a Template System to create sortable, paginated File Lists and can sideload Files from other websites.
 The Plugin is made for easy management of many Files and consistent output using Templates.
+
 
 With WP-Filebase you can...
 
